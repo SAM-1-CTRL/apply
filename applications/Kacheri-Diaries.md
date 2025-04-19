@@ -1,4 +1,8 @@
-#Kacheri Diaries AI
+# Kacheri  Diaries AI
+
+
+
+## Project Overview
 
 
 
@@ -12,7 +16,7 @@
 
 
 
-**Project Details**
+### Project Details
 
 
 
@@ -186,7 +190,7 @@ We have designed preliminary UI mockups for:
 
 
 
-**Ecosystem Fit**
+### Ecosystem Fit
 
 
 
@@ -274,17 +278,17 @@ India, with its large backlog of cases and push for digital governance, provides
 
 
 
-**Team Details**
+## Team Details
 
 
 
-*Team Name:* Kacheri Diaries LLP
+**Team Name:** Kacheri Diaries LLP
 
-*Contact Name:* Samarth Shukla
+**Contact Name:** Samarth Shukla
 
-*Contact Email:* info@kacheridiaries.com
+**Contact Email:** info@kacheridiaries.com
 
-*Website:* www.kacheridiaries.com
+**Website:** www.kacheridiaries.com
 
 
 
@@ -292,17 +296,31 @@ India, with its large backlog of cases and push for digital governance, provides
 
 
 
-Samarth Shukla - Founder | CEO | https://www.linkedin.com/in/samarth-shukla-418144170/
+Samarth Shukla - Founder | CEO 
 
-Aditya Daryani - CoFounder | CMO | https://www.linkedin.com/in/adityadaryani/
+Aditya Daryani - CoFounder | CMO
 
-Devansh Srivastava - CoFounder | CFO | https://www.linkedin.com/in/devansh-srivastava-12a409313/
+Devansh Srivastava - CoFounder | CFO 
 
-Mehul Mendhiratta - Operations Head | https://www.linkedin.com/in/mehul-mendhiratta-455bab27a/
+Mehul Mendhiratta - Operations Head 
 
 
 
-**Development Roadmap**
+#### LinkedIn Profiles
+
+
+
+https://www.linkedin.com/in/samarth-shukla-418144170/
+
+https://www.linkedin.com/in/adityadaryani/
+
+https://www.linkedin.com/in/devansh-srivastava-12a409313/
+
+https://www.linkedin.com/in/mehul-mendhiratta-455bab27a/
+
+
+
+## Development Roadmap
 
 
 
@@ -404,7 +422,7 @@ Mehul Mendhiratta - Operations Head | https://www.linkedin.com/in/mehul-mendhira
 
 
 
-**Budget Breakdown by Milestone**
+## Budget Breakdown by Milestone
 
 
 
@@ -420,7 +438,7 @@ Mehul Mendhiratta - Operations Head | https://www.linkedin.com/in/mehul-mendhira
 
 
 
-**Future Plans**
+## Future Plans
 
 
 
@@ -448,7 +466,7 @@ After the successful completion of the Fast-Grant, *Kacheri Diaries AI* will con
 
 
 
-*Funding Strategy*
+## Funding Strategy
 
 To support our long-term roadmap, we plan to pursue:
 
@@ -475,6 +493,3 @@ We aim to become *the default decentralised legal assistant* across emerging eco
 
 
 We envision Kacheri Diaries AI evolving into a *composable legal infra-layer* that other Polkadot dApps can plug into for authentication, legal compliance, dispute resolution, or evidence handling.
-
-
-
