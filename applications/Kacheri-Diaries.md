@@ -426,15 +426,17 @@ https://www.linkedin.com/in/mehul-mendhiratta-455bab27a/
 
 
 
-| Milestone | Deliverables | Cost (USD) | Estimated Completion |
+| Number | Deliverable | Specification |
 
-|-----------|--------------|------------|-----------------------|
+|--------|-------------|---------------|
 
-| 1 | *AI-Powered OCR & Document Summarisation Engine<br>• OCR-based client file scanning system<br>• AI-powered document summarisation (legal-specific)<br>• Backend APIs & frontend UI for document upload and viewing<br>• Database integration for client file management | *$5,000** | *1.5 months* |
+| 0a. | *License* | The entire codebase will be released under the *MIT License* to ensure community accessibility and wide adoption. |
 
-| 2 | *Blockchain-Based Document Vault + Legal Draft Preset Builder<br>• Smart contracts for document verification & timestamping<br>• IPFS integration for decentralised legal file storage<br>• UI for document hash verification<br>• AI-powered legal draft builder with editable templates | *$5,000** | *1.5 months* |
+| 0b. | *Documentation* | We will provide *inline documentation* for all major components. Additionally, a *user and developer guide* will be written that explains the architecture, installation process, and usage of the lawyer and client interfaces with blockchain integration. |
 
-| *Total* |  | *$10,000* | *3 months* |
+| 0c. | *Testing and Testing Guide* | All core modules will have *>=90% unit test coverage, including OCR, smart contract logic, and document handling. A **testing manual* will explain how to run tests using Jest (frontend) and PyTest/Mocha (backend/blockchain). |
+
+| 0d. | *Article* | An in-depth *medium/blog article* will be published detailing the project's background, motivation, Polkadot integration, challenges solved, architecture choices, and outcomes. It will also cover how to deploy and contribute to the project. |
 
 
 
